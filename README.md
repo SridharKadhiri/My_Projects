@@ -11,3 +11,5 @@ HI these are the projects i handled
 	27/Mar/2023     EDA on Vehicle Insurence data		Python, pandas, numpy 
 
 	26/Mar/2023     English_Dictionary			Python, SQL, 
+	
+	06/May/2023	Week_4_tableau				Tableau
